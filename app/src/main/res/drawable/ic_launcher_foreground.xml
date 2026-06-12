@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Shining Star of Knowledge -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M 54,18 L 56.5,23.5 L 62.5,23.5 L 57.5,27 L 59.5,32.5 L 54,29 L 48.5,32.5 L 50.5,27 L 45.5,23.5 L 51.5,23.5 Z" />
+
+    <!-- Diamond Cap Top -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,32 L 88,46 L 54,60 L 20,46 Z" />
+
+    <!-- Under Cap Shadow -->
+    <path
+        android:fillColor="#1E1B4B"
+        android:fillAlpha="0.25"
+        android:pathData="M 33,52 L 33,64 C 33,70 75,70 75,64 L 75,52 L 54,60 Z" />
+
+    <!-- Cap Cap Base -->
+    <path
+        android:fillColor="#F1F5F9"
+        android:pathData="M 34,51 C 34,51 34,66 34,66 C 34,71.5 74,71.5 74,66 C 74,66 74,51 74,51 L 54,59 Z" />
+
+    <!-- Hanging Tassel -->
+    <path
+        android:strokeWidth="2.5"
+        android:strokeColor="#F59E0B"
+        android:strokeLineCap="round"
+        android:pathData="M 72,46 L 79,53 L 79,64" />
+        
+    <!-- Tassel Brush Accent -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M 77,64 L 81,64 L 79,70 Z" />
+
+</vector>

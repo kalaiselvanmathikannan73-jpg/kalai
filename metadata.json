@@ -1,0 +1,6 @@
+{
+  "name": "AI Student Tutor & Companion",
+  "description": "An intelligent AI student companion featuring a master tutor, interactive quiz compiler with XP leveling, voice narrator, and step-by-step career path advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
